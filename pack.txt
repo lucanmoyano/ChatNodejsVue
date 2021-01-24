@@ -1,0 +1,5 @@
+npm i --save express socket.io
+npm i nodemon
+
+
+npm install tailwindcss
